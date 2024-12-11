@@ -1,0 +1,4 @@
+ADC.c:36:6:adc_init	40	static
+ADC.c:103:6:adc_Deinit	16	static
+ADC.c:125:6:adc_check	24	static
+ADC.c:137:5:adc_rx	24	static

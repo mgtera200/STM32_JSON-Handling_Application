@@ -1,0 +1,7 @@
+help_func.c:11:6:str_empty	24	static
+help_func.c:25:5:len_str	24	static
+help_func.c:36:5:find_str	40	static
+help_func.c:77:5:find_strL	32	static
+help_func.c:94:6:Concatstr	24	static
+help_func.c:111:6:int2char	64	static
+help_func.c:138:5:char2int	40	static
